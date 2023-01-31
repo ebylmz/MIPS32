@@ -7,7 +7,7 @@ Documentation for this project is provided with the mips32_doc file.
 ## Testbench & Simulation
 Testbench files are provided in the src/testbench folder. Before starting the simulation change the mips32 and core files with the ones in the testbench folder. So that the debugging parameters can be shown via waves.
 
-Instruction memory, data memory, and register file are initialized with the Verilog memread. For correct execution check the path for source files.
+Instruction memory, data memory, and register file are initialized with the Verilog readmem. For correct execution check the path for source files.
 
 Sample testbench instructions in the instr.mem file
 
