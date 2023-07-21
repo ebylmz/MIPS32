@@ -2,7 +2,8 @@
 32 Bit Single Cycle MIPS Processor
 
 ## Documentation
-Documentation for this project is provided with the mips32_doc file.
+Project documentation can be found [here](https://github.com/ebylmz/MIPS32/blob/main/mips32_doc.pdf).
+
 
 ## Testbench & Simulation
 Testbench files are provided in the src/testbench folder. Before starting the simulation change the mips32 and core files with the ones in the testbench folder. So that the debugging parameters can be shown via waves.
